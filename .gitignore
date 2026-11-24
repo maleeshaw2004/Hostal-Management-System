@@ -1,0 +1,22 @@
+# Secrets
+.env
+**/.env
+
+# Frontend
+node_modules/
+dist/
+
+# Backend
+target/
+
+# Uploads and local data
+uploads/
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
